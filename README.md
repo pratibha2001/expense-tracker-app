@@ -1,7 +1,9 @@
 
 
 
-**Some glimpes of the app-**
+**Hosted on Render - https://expensefront.onrender.com/**
+<br><br>
+Some glimpes of the app-
 <br>
 <br>
 DASHBOARD 
@@ -11,11 +13,11 @@ DASHBOARD
 <img width="960" alt="image" src="https://github.com/pratibha2001/expense-tracker-app/assets/85070588/9a1dd6f3-4edd-42fc-91ab-b45f478b3015">
 <br>
 <br>
-INCOME SECTION
+INCOMES SECTION
 <img width="960" alt="image" src="https://github.com/pratibha2001/expense-tracker-app/assets/85070588/dec7cb9e-5e1d-4d3e-8f49-eb44093928f2">
 <br>
 <br>
-EXPENSE SECTION
+EXPENSES SECTION
 <img width="960" alt="image" src="https://github.com/pratibha2001/expense-tracker-app/assets/85070588/3dccc4cc-b069-4f63-92ed-ec99326413b1">
 <br>
 <br>
